@@ -1,7 +1,7 @@
 ## Event-triggered filtering
 **This is a repository of the codes for event-triggered H-infinity filtering [1] for nonlinear systems.**
 
-### The codes are build using MATLAB software
+### The codes are created using MATLAB software
 The attached file consists of the following files:
  1. DoSData.m   ---------  DoS attack data governed by Bernoulli are generated.
  2. DoSData.mat  --------  DoS attack data are saved in this file. The data are loaded in the following four files.
