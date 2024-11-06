@@ -18,5 +18,5 @@ Note that:
 You are more than welcome to use the code for your research if it is useful. If you use the code for your research, please cite this paper [1]. 
 
 ### References
-[1] W. Ma, **Y. Zhou**, X. Lai, & F. Gao, [Event-triggered H-infinity filtering for a class of nonlinear systems under DoS attacks](https://doi.org/), In: Circuits, Systems, and Signal Processing, to appear, 2024.
+[1] W. Ma, **Y. Zhou**, X. Lai, & F. Gao, [Event-triggered H-infinity filtering for a class of nonlinear systems under DoS attacks](https://doi.org/10.1007/s00034-024-02775-2), In: Circuits, Systems, and Signal Processing, to appear, 2024.
 
